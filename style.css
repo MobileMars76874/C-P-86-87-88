@@ -1,0 +1,21 @@
+body{
+background-image: url("avenger_bg.jpg");
+}
+
+#myCanvas{
+border-width:10px;
+background-color: rgb(179, 194, 228); 
+border-style:ridge;
+}
+
+#Size_info{
+width: 600px;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+
+main{
+border-radius: 10px;
+width: 200px;
+padding: 5px;
+}
